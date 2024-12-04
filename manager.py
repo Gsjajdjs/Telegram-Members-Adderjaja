@@ -34,7 +34,6 @@ def banner():
     for char in b:
         print(f'{random.choice(colors)}{char}{n}')
     print('Contact below address for get premium script')
-    print(f'{lg}Telegram: {w}@DearSaif{lg} | Instagram: {w}@_Prince.Babu_{rs}')
 
 def clr():
     if os.name == 'nt':
